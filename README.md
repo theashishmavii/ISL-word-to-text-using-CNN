@@ -61,6 +61,16 @@ WEAR, WELCOME, WHAT, WHERE, WHO, WORRY, YOU
 
 ---
 
+## 📸 Some Sign Words:
+![AGREE (4)](https://github.com/user-attachments/assets/f94b41b2-fb66-454c-b42a-087b1870ba38)
+![COLD (3)](https://github.com/user-attachments/assets/e0236769-3c2f-427c-b026-22bce461404b)
+![ANGRY (6)](https://github.com/user-attachments/assets/bff2bdb7-53ed-466f-b435-31283ee4a138)
+![HEART (2)](https://github.com/user-attachments/assets/75bc2be0-2341-4127-a26a-1d6fd7a1a8af)
+![PREPARE (2)](https://github.com/user-attachments/assets/21929116-ab65-4550-b314-6cd4c2e43c45)
+
+
+---
+
 ## 📂 Folder Structure  
 
 📦 **ISL-Word-to-Text-using-CNN**  
